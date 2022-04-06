@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    smarter_csv (1.4.2)
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  smarter_csv (~> 1.4)
+
+BUNDLED WITH
+   2.3.10
